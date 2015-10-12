@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-mysql-example",
+  "version": "0.0.1",
+  "description": "nodejs, mysql example - Server for room budget application",
+  "author": "sumeet patil - sumeetp1991@gmail.com",
+  "dependencies": {
+    "httpdispatcher": "*",
+    "mysql": "*"
+  },
+  "private": true
+}
+  
